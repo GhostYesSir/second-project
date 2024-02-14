@@ -7,5 +7,7 @@
 ```mermaid
 graph LR;
 untracked -- "git add" --> staged;
+
+
 staged    -- "???"     --> tracked/comitted;
 ```
