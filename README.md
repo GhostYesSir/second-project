@@ -3,8 +3,9 @@
 
 **Я очень люблю этот курс**
 
-'''mermaid
+
+```mermaid
 graph LR;
 untracked -- "git add" --> staged;
 staged    -- "???"     --> tracked/comitted;
-'''
+```
